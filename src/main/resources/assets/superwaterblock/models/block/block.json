@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"up": "superwaterblock:blocks/up",
+		"down": "superwaterblock:blocks/down",
+		"west": "superwaterblock:blocks/other",
+		"north": "superwaterblock:blocks/other",
+		"east": "superwaterblock:blocks/other",
+		"south": "superwaterblock:blocks/other"
+	}
+}

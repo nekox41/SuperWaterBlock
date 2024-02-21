@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "superwaterblock:blocks",
+  "result": { "item": "superwaterblock:block", "count": 1 },
+  "ingredients": [
+    { "item": "minecraft:glass", "data": 0 },
+    { "item": "minecraft:glass", "data": 0 },
+    { "item": "minecraft:glass", "data": 0 },
+    { "item": "minecraft:glass", "data": 0 },
+    { "item": "minecraft:water_bucket", "data": 0 },
+    { "item": "minecraft:glass", "data": 0 },
+    { "item": "minecraft:glass", "data": 0 },
+    { "item": "minecraft:glass", "data": 0 },
+    { "item": "minecraft:glass", "data": 0 }
+  ]
+}
